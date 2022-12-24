@@ -5,9 +5,9 @@ If the name sounds too long or difficult to pronounce, my friends call me by my 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IIT%2C+Guwahati;Driven+by+Curiosity;Love+building+cool+things;Competitive+Coder+%3AD;Favorite+Book+-+Cosmos+by+Carl+Sagan)](https://git.io/typing-svg)
 
 ### Studying and Exploring...
-- **Competitive Programming** , find my by the handle ParadigmShift. [![Codeforces](https://badges.joonhyung.xyz/codeforces/ParadigmShift.svg)](https://codeforces.com/profile/ParadigmShift)
-- **Blockchain**, currently working on research project.
-- **Web Development**, I've done multiple projects on it, check out my [NoteApp](https://github.com/Fronsto/Note-Taking-App) which took me like 4 months to make.
+- **Competitive Programming** , find me by the handle ParadigmShift. [![Codeforces](https://badges.joonhyung.xyz/codeforces/ParadigmShift.svg)](https://codeforces.com/profile/ParadigmShift)
+- **Blockchain**, currently working on a research project.
+- **Web Development**, I've done multiple projects on it. Check out my [NoteApp](https://github.com/Fronsto/Note-Taking-App) which took me like 4 months to make.
 - Will be studying various other stuff this semester, including AI, Cryptography, Software Design and more.
 
 <a href="https://stackexchange.com/users/12920676/paradigmshift"><img src="https://stackexchange.com/users/flair/12920676.png" width="208" height="58" alt="profile for ParadigmShift on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ParadigmShift on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
@@ -17,5 +17,5 @@ If the name sounds too long or difficult to pronounce, my friends call me by my 
 
 
 <!---
-- [ ] include links to linked in
+- [ ] include links to linkedin
 --->
