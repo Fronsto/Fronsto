@@ -5,7 +5,7 @@ If the name sounds too long or difficult to pronounce, my friends call me by my 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IIT%2C+Guwahati;Driven+by+Curiosity;Love+building+cool+things;Competitive+Coder+%3AD;Favorite+Book+-+Cosmos+by+Carl+Sagan)](https://git.io/typing-svg)
 
 ### Studying and Exploring...
-- **Competitive Programming** , find me by the handle ParadigmShift. [![Codeforces](https://badges.joonhyung.xyz/codeforces/ParadigmShift.svg)](https://codeforces.com/profile/ParadigmShift)
+- **Competitive Programming** , Codeforces handle `ParadigmShift`, ICPC team `cns_lena_chahiye_tha`.
 - **Blockchain**, currently working on a research project.
 - **Web Development**, I've done multiple projects on it. Check out my [NoteApp](https://github.com/Fronsto/Note-Taking-App) which took me like 4 months to make.
 - Will be studying various other stuff this semester, including AI, Cryptography, Software Design and more.
